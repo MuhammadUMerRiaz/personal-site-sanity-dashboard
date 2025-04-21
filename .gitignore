@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # Dependencies
-/my-sanity-dashboard
+=======
+>>>>>>> f9eaf209b21fff71a3f400ddf04767432e593c33
 /node_modules
 /.pnp
 .pnp.js
